@@ -1,0 +1,14 @@
+C:\Users\yigit\source\repos\Hava Durumu Projesi1\bin\Debug\net8.0\Hava Durumu Projesi1.exe
+C:\Users\yigit\source\repos\Hava Durumu Projesi1\bin\Debug\net8.0\Hava Durumu Projesi1.deps.json
+C:\Users\yigit\source\repos\Hava Durumu Projesi1\bin\Debug\net8.0\Hava Durumu Projesi1.runtimeconfig.json
+C:\Users\yigit\source\repos\Hava Durumu Projesi1\bin\Debug\net8.0\Hava Durumu Projesi1.dll
+C:\Users\yigit\source\repos\Hava Durumu Projesi1\bin\Debug\net8.0\Hava Durumu Projesi1.pdb
+C:\Users\yigit\source\repos\Hava Durumu Projesi1\obj\Debug\net8.0\Hava Durumu Projesi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit\source\repos\Hava Durumu Projesi1\obj\Debug\net8.0\Hava Durumu Projesi1.AssemblyInfoInputs.cache
+C:\Users\yigit\source\repos\Hava Durumu Projesi1\obj\Debug\net8.0\Hava Durumu Projesi1.AssemblyInfo.cs
+C:\Users\yigit\source\repos\Hava Durumu Projesi1\obj\Debug\net8.0\Hava Durumu Projesi1.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Hava Durumu Projesi1\obj\Debug\net8.0\Hava Durumu Projesi1.dll
+C:\Users\yigit\source\repos\Hava Durumu Projesi1\obj\Debug\net8.0\refint\Hava Durumu Projesi1.dll
+C:\Users\yigit\source\repos\Hava Durumu Projesi1\obj\Debug\net8.0\Hava Durumu Projesi1.pdb
+C:\Users\yigit\source\repos\Hava Durumu Projesi1\obj\Debug\net8.0\Hava Durumu Projesi1.genruntimeconfig.cache
+C:\Users\yigit\source\repos\Hava Durumu Projesi1\obj\Debug\net8.0\ref\Hava Durumu Projesi1.dll
